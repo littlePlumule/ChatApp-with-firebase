@@ -1,5 +1,6 @@
 # chat-app
 
+## [DEMO](https://littleplumule.github.io/ChatApp-with-firebase-demo/)
 ## 安裝套件
 ```
 npm install
